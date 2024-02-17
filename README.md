@@ -20,9 +20,6 @@ DataD democratizes data analysis, making it accessible to users with varying lev
 ### Flexibility
 Offering users a choice between SweetViz and DataPrep, two of the most powerful EDA libraries available, ensures that they can select the tool that best fits their specific analysis needs or preferences.
 
-### Enhanced User Experience
-The application's ability to set a responsive background image and the inclusion of a custom footer add a level of personalization and engagement not commonly found in analytical tools, making data analysis an enjoyable experience.
-
 ### Security and Performance
 DataD's design considers the importance of data security and app performance. The automatic cleanup of temporary files when the app is closed prevents data breaches and ensures the app runs smoothly.
 
