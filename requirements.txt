@@ -1,0 +1,17 @@
+
+streamlit
+pandas
+sweetviz
+dataprep
+base64
+tempfile
+shutil
+os
+atexit
+numpy
+scikit-learn
+matplotlib
+jinja2
+plotly
+scipy
+seaborn
