@@ -32,7 +32,7 @@ def clean_up(temp_dir):
 # Streamlit UI
 def main():
     # Set background image
-    set_bg_image("bg.gif") 
+    set_bg_image("bg.png") 
     
     st.title("DataD 📊: All in One Enhanced Data Analysis App")
     
