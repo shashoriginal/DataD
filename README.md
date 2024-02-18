@@ -4,6 +4,13 @@
 
 DataD is a cutting-edge data analysis application developed by Shashank Raj, designed to streamline the exploratory data analysis (EDA) process. Built with Streamlit, pandas, SweetViz, and DataPrep, this app offers a highly interactive and intuitive interface for users to upload their CSV datasets and generate comprehensive EDA reports. The app stands out for its ease of use, flexibility in choosing EDA tools, and its innovative approach to data visualization and analysis.
 
+It is accessible via [https://datadd.streamlit.app/](https://datadd.streamlit.app/), making it easily available for users worldwide.
+
+## Key Features
+
+- 🌟 **Responsive Background Image**: Enhances user experience by allowing a custom background image for the app interface.
+- 🚀 **Multiple EDA Libraries Support**: Users can choose between SweetViz and DataPrep for generating detailed data analysis reports, providing flexibility and catering to different analysis needs.
+
 ## Key Features
 
 - 🚀 **Multiple EDA Libraries Support**: Users can choose between SweetViz and DataPrep for generating detailed data analysis reports, providing flexibility and catering to different analysis needs.
